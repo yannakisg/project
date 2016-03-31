@@ -1,0 +1,9 @@
+{"created_at":"Thu Mar 24 17:51:10 +0000 2016","entities":{"hashtags":[{"text":"Spark","indices":[28,36]},{"text":"Apache","indices":[37,54]}]}}
+{"created_at":"Thu Mar 24 17:51:15 +0000 2016","entities":{"hashtags":[{"text":"Apache","indices":[28,36]},{"text":"Hadoop","indices":[37,54]},{"text":"Storm","indices":[37,54]}]}}
+{"created_at":"Thu Mar 24 17:51:30 +0000 2016","entities":{"hashtags":[{"text":"Apache","indices":[28,36]}]}}
+{"created_at":"Thu Mar 24 17:51:55 +0000 2016","entities":{"hashtags":[{"text":"Flink","indices":[28,36]},{"text":"Spark","indices":[28,36]}]}}
+{"created_at":"Thu Mar 24 17:51:58 +0000 2016","entities":{"hashtags":[{"text":"Spark","indices":[28,36]},{"text":"HBase","indices":[28,36]}]}}
+{"created_at":"Thu Mar 24 17:52:12 +0000 2016","entities":{"hashtags":[{"text":"Hadoop","indices":[28,36]},{"text":"Apache","indices":[28,36]}]}}
+{"created_at":"Thu Mar 24 17:52:10 +0000 2016","entities":{"hashtags":[{"text":"Flink","indices":[28,36]},{"text":"HBase","indices":[28,36]}]}}
+{"created_at":"Thu Mar 24 17:51:10 +0000 2016","entities":{"hashtags":[{"text":"Cassandra","indices":[28,36]},{"text":"NoSQL","indices":[28,36]}]}}
+{"created_at":"Thu Mar 24 17:52:20 +0000 2016","entities":{"hashtags":[{"text":"Kafka","indices":[28,36]},{"text":"Apache","indices":[28,36]}]}}
